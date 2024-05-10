@@ -1,5 +1,5 @@
-# vsshinde-ggattani-rkakde-a2
-# Report for Assignment 2: AI Methods in Adversarial Search and Naive Bayes Classification
+
+# AI Methods in Adversarial Search and Naive Bayes Classification
 
 ## Problem Descriptions
 
